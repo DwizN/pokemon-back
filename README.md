@@ -1,13 +1,14 @@
 # pokemon-back
 TP1 : Pokémon - Licence Pro DIM 2022/2023
 
+## Préambule
 
 Le TP pokémon va vous permettre de mettre en pratique ce que vous avez appris pas par pas lors du TP1. 
 
 En entreprise, vous serez un jour amené à travailler en équipe. Dans ce TP la partie front-end a déjà été développée. 
 
 Pour pouvoir communiquer correctement avec elle, une configuration a été ajoutée dans votre projet back dans le package config. 
-Cette configuration permet, entre-autre d'autoriser les communications et les différentes méthodes HTTP entre les 2 parties.
+Cette configuration permet, entre-autre d'autoriser les différentes méthodes HTTP et les communications entre les 2 parties.
 
 
 ## Installation & démarrage du front
@@ -27,3 +28,10 @@ Il vous est également demandé de respecter le nommage de vos DTO pour que l'af
 <img width="1119" alt="Capture d’écran 2022-11-12 à 16 03 47" src="https://user-images.githubusercontent.com/23740209/201517541-139c4856-640b-4773-b1d5-f262dd36e7f2.png">
 
 Ce sera les seules choses qui vont seront imposées. Pour le reste vous êtes libre d'implémenter ce que vous souhaitez (base de données, entités, formattage....)
+
+## Notation 
+Ce TP est noté. Il comptera pour 15% de votre note finale.
+Vous avez 8h pour le réaliser. Vous serez évalué sur votre capacité à mettre à disposition les 5 web-services de façon à faire fonctionner la partie front qu'il vous a été donné. Une attention particulière sera portée sur le respect des différentes couches applicatives et la qualité de votre code.
+
+Bon courage !
+
